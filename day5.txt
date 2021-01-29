@@ -1,0 +1,4 @@
+-Face Recognization
+
+--ex1 : for dataset collection
+--ex2 : for model duilding and implementation
